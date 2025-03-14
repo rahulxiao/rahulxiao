@@ -91,4 +91,4 @@
 
 ###
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rahulxiao&theme=dark&border_radius=5)](https://git.io/streak-stats)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rahulxiao&theme=tokyonight&hide_border=true)
