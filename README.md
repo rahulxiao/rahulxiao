@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
