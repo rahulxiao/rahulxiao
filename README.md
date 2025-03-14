@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -107,7 +107,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31enyhdzwoevnuv2zubbem3yfyjq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31enyhdzwoevnuv2zubbem3yfyjq&count=2" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31enyhdzwoevnuv2zubbem3yfyjq&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
