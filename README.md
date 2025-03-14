@@ -65,20 +65,8 @@
 ###
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulxiao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-       height="150" 
-       alt="stats graph" 
-       style="border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #444; padding: 10px;">
-  
-  <!-- Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulxiao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-       height="150" 
-       alt="languages graph" 
-       style="border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #444; padding: 10px;">
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulxiao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulxiao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/github-snake-dark.svg" alt="Snake animation" />
