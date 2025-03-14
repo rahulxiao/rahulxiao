@@ -41,7 +41,6 @@
 ###
 
 <br clear="both">
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unrealengine logo" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c logo" style="margin: 5px;"/>
