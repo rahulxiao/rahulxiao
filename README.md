@@ -85,12 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulxiao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRpaG8zbzVvdm11ajhsbWkwNWVrcDJ2d25ldGdkdzdjZzdzOXlwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
