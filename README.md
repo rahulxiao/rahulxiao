@@ -1,16 +1,16 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=700&size=32&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Rahul;Software+Developer;Game+Developer+🎮;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=PLAYER+1+READY...;Hi+I'm+Rahul;Game+Dev+%2B+Fullstack+Coder;Bug+Slayer+%F0%9F%90%9B%E2%9D%8C;Leveling+Up+Every+Day" />
 </a>
 
 <br/><br/>
 
 <a href="https://rahulbiswas.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FF9C" />
 </a>
 <a href="https://www.linkedin.com/in/rahul-biswas-6a2993232/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/rahulxiao">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -20,26 +20,25 @@
 
 ---
 
-## 👋 About Me
+## 🧠 Character Bio
 
-I'm **Rahul**, a full-stack developer who loves building scalable apps and immersive games.  
-I see every bug as a puzzle 🧩 and every feature as a new level 🎮.
+**Name:** Rahul  
+**Class:** Full-Stack Developer / Game Developer  
+**Special Skills:**  
+- React & Next.js ⚛️  
+- Node.js & APIs 🧩  
+- Unity & Unreal 🎮  
+- Bug extermination 🐛💥  
 
-**What I do:**
-- ⚡ React & Next.js web apps  
-- 🧠 Node.js backend systems  
-- 🎮 Unity & Unreal game projects  
-- 🧹 Clean, scalable code  
-
-**Currently exploring:**
-- SaaS products  
-- Game dev (working on **Zinx**)  
-- System design  
-- Cloud infrastructure  
+**Current Quest:**
+- Building SaaS apps  
+- Developing game **Zinx**  
+- Learning system design  
+- Grinding cloud skills  
 
 ---
 
-## ⚔️ Tech Stack
+## ⚔️ Weapons & Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,cs&theme=dark" />
@@ -55,40 +54,50 @@ I see every bug as a puzzle 🧩 and every feature as a new level 🎮.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Player Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulxiao&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulxiao&show_icons=true&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxiao&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxiao&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 XP Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulxiao&theme=tokyo-night&hide_border=true" />
-
----
-
-## 🎮 Featured Projects
-
-🚀 *Check out my portfolio for live projects:*  
-👉 **https://rahulbiswas.vercel.app**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulxiao&theme=rogue&hide_border=true" />
 
 ---
 
-## 💬 Let's Connect
+## 😂 Meme Zone
+
+<div align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" width="400" />
+  <p><i>"When the code finally works after 5 hours of debugging"</i></p>
+</div>
+
+---
+
+## 🎯 Side Quests
+
+🚀 Portfolio → https://rahulbiswas.vercel.app  
+🧠 Learning → System Design & Game AI  
+🎮 Game Project → **Zinx**
+
+---
+
+## 📬 Party Invite
 
 <div align="center">
 
-📧 Open for freelance, collaborations & jobs  
+💬 Open for freelance, collabs & job quests  
 <br/><br/>
 
 <a href="https://rahulbiswas.vercel.app/">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Join%20My%20Party-00FF9C?style=for-the-badge" />
 </a>
 
 </div>
