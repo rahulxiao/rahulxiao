@@ -31,7 +31,7 @@
 
 ### Glad to see you here!  
 I’m a **full-stack developer & game developer** who loves building scalable web apps and immersive games.  
-But mostly I love turning coffee ☕ into code 💻. Yooo Intern Done 
+But mostly I love turning coffee ☕ into code 💻. Udate 2.0
 
 ---
 
