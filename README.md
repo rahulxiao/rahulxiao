@@ -1,88 +1,87 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Rahul+Biswas;Gamer;Problem+Solver;Full+Stack+Developer;Bug+Slayer&multicolor=true" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img src="./assets/hero.svg" width="100%" alt="Rahul Biswas — game maker, software builder, traveler" />
+</div>
+
+<div align="center">
+<a href="https://rahulxiao.github.io/rahul/"><img src="https://img.shields.io/badge/portfolio-120f2a?style=for-the-badge&logo=googlechrome&logoColor=f9a8d4" /></a>
+<a href="https://x.com/rahulxiao"><img src="https://img.shields.io/badge/X-120f2a?style=for-the-badge&logo=x&logoColor=f9a8d4" /></a>
+<a href="https://www.linkedin.com/in/rahul-biswas-6a2993232/"><img src="https://img.shields.io/badge/linkedin-120f2a?style=for-the-badge&logo=linkedin&logoColor=67e8f9" /></a>
+<a href="https://www.instagram.com/rahulxiao/"><img src="https://img.shields.io/badge/instagram-120f2a?style=for-the-badge&logo=instagram&logoColor=f9a8d4" /></a>
+<a href="https://www.facebook.com/rahulxiao/"><img src="https://img.shields.io/badge/facebook-120f2a?style=for-the-badge&logo=facebook&logoColor=67e8f9" /></a>
+</div>
+
+<br/>
+
+<img src="./assets/t0100.svg" width="100%" alt="01:00 — Who's this?" />
+
+<table><tr><td valign="middle" width="58%">
+
+<p>Hey, I'm <b>Rahul</b>, a CSE student who builds apps, websites and the systems behind them. I enjoy the whole stack: designing APIs, modelling data, setting up servers, and shipping interfaces people actually like using.</p>
+
+<p>Right now I'm focused on software that's fast, reliable and simple to maintain. Most of that work still happens after midnight.</p>
+
+</td><td valign="middle" width="42%">
+
+<p><b>Favorite game</b></p>
+
+<img src="https://media.giphy.com/media/iQ6nbRtdVaKHAjJvg2/giphy.gif" width="100%" alt="Spider-Man dancing in Marvel Rivals" />
+
+</td></tr></table>
+
+<img src="./assets/t0230.svg" width="100%" alt="02:30 — What keeps me up" />
+
+<div align="center">
+  <img src="./assets/loves.svg" width="100%" alt="Making games, building software, traveling" />
+</div>
+
+<img src="./assets/t0315.svg" width="100%" alt="03:15 — Late-night thoughts" />
+
+<div align="center">
+  <img src="./assets/dialogue.svg" width="100%" alt="A visual-novel dialogue box with Rahul's 3 AM thoughts" />
+</div>
+
+<img src="./assets/t0400.svg" width="100%" alt="04:00 — What I build with" />
+
+<p align="center"><sub><b>LANGUAGES</b></sub><br/><img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,dart,php,bash&theme=dark&perline=8" /></p>
+<p align="center"><sub><b>FRONTEND</b></sub><br/><img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,sass,bootstrap,threejs,html,css&theme=dark&perline=10" /></p>
+<p align="center"><sub><b>BACKEND &amp; DATA</b></sub><br/><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,prisma,graphql,postgres,mysql,mongodb,redis,firebase,supabase&theme=dark&perline=12" /></p>
+<p align="center"><sub><b>MOBILE</b></sub><br/><img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&theme=dark&perline=3" /></p>
+<p align="center"><sub><b>SHIP &amp; TOOLS</b></sub><br/><img src="https://skillicons.dev/icons?i=docker,nginx,aws,cloudflare,vercel,githubactions,git,github,linux,ubuntu,postman,vscode,idea&theme=dark&perline=13" /></p>
+<p align="center"><sub><b>GAME DEV (ON THE SIDE)</b></sub><br/><img src="https://skillicons.dev/icons?i=cpp,c,cs,unreal,unity,godot,blender,figma&theme=dark&perline=8" /></p>
+
+<img src="./assets/t0445.svg" width="100%" alt="04:45 — Quest log" />
+
+<div align="center">
+  <img src="./assets/quests.svg" width="100%" alt="Quest log: main and side quests, cleared, in progress and locked" />
+</div>
+
+<img src="./assets/t0530.svg" width="100%" alt="05:30 — Next stop" />
+
+<div align="center">
+  <img src="./assets/journey.svg" width="100%" alt="A train crossing the hills at dawn — next stop: somewhere I haven't been yet" />
+</div>
+
+<img src="./assets/t0615.svg" width="100%" alt="06:15 — Training log" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/stats.svg" width="100%" alt="Contributions, streaks and stars over the last 12 months" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/skyline.svg" width="100%" alt="My contributions drawn as a 3D night skyline" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man eating my contribution graph" />
+  <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/github-snake-dark.svg" width="100%" alt="snake eating my contribution graph" />
 </div>
 
 <br/>
 
 <div align="center">
-<a href="https://x.com/rahulxiao" target="_blank">
-<img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rahul-biswas-6a2993232/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/rahulxiao/" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rahulxiao/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/rahulxiao" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>  
+  <img src="./assets/morning.svg" width="100%" alt="07:00 — good morning, see you in the next commit" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rahulxiao&style=flat-square&color=f472b6&label=visitors" />
 </div>
 
----
-
-### Glad to see you here!  
-I’m a **full-stack developer & game developer** who loves building scalable web apps and immersive games.  
-But mostly I love turning coffee ☕ into code 💻. Udate 2.0
-
----
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on **full-stack stuff that works on my machine only**  
-- 🌱 I’m currently learning **how to fix one bug without creating three new ones**  
-- ❓ Ask me about **React, Next.js, Node.js… or why my code worked yesterday**  
-- ⚡ Fun fact: I debug best at night because bugs are scared of darkness 🌙  
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25oeHpnc2QzOGtnbGpxbHdvZHlnZnhtZHFiYXNncW1reHZkb3FociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/mnnCVMuiU87Fw5jEiQ/giphy.gif" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
----
-
-## Languages and Tools  
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,cs,unity,unreal,figma,blender,tailwind,bootstrap,sass,webpack,postgres,mongodb,firebase,docker,git,linux,vscode,github,vercel,aws&theme=dark" />
-</div>
-
----
-
-## 🎮 Favorite Game  
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNhMGJ1Mnd3djVzZXFoYmx6YXhncWhlZ2h5bjVnazNwMDhuZHY3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/sAE2qQyHIWGshXheNL/giphy.gif" width="100%" />
-</div>
-
----
-
-## Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulxiao&theme=tokyo-night&hide_border=true" />
-
----
-
-## Snake Eating My Contributions 🐍  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahulxiao/rahulxiao/output/github-snake-dark.svg" width="100%" />
-</div>
-
----
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rahulxiao&&style=flat-square)  
-
----
-
-<div align="center">🚀 Built with bugs & coffee by Rahul</div>
+<!-- SVGs in /assets are generated by assets/generate.py — edit the text there and re-run -->

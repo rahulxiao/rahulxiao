@@ -1,0 +1,40 @@
+name: Check profile images
+
+# Every Monday: make sure every image on the profile still loads.
+# If something breaks, open (or update) one issue; close it once fixed.
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every image in README.md
+        id: check
+        continue-on-error: true
+        run: python3 .github/scripts/check_images.py README.md | tee report.md
+
+      - name: Open, update or close the issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE: "Broken image on profile"
+        run: |
+          existing=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number')
+          if [ "${{ steps.check.outcome }}" = "failure" ]; then
+            if [ -n "$existing" ]; then
+              gh issue comment "$existing" --body-file report.md
+            else
+              gh issue create --title "$TITLE" --body-file report.md
+            fi
+          elif [ -n "$existing" ]; then
+            gh issue close "$existing" --comment "All images load again."
+          fi

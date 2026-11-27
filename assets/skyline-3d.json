@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "skyline.svg",
+  "backgroundColor": "#0b0a1f",
+  "foregroundColor": "#e9e3ff",
+  "strongColor": "#f9a8d4",
+  "weakColor": "#a99fc9",
+  "radarColor": "#f472b6",
+  "growingAnimation": true,
+  "contribColors": ["#1a1538", "#3b2a6b", "#6b3fa0", "#c0527f", "#ffcf7a"]
+}

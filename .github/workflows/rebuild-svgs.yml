@@ -1,0 +1,36 @@
+name: Rebuild SVGs
+
+# Edit assets/generate.py (text, quests, colours), push, and this
+# regenerates every SVG in assets/ and commits them for you.
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - assets/generate.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate SVGs
+        run: python3 assets/generate.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "SVGs already up to date"
+          else
+            git commit -m "Rebuild SVGs from generate.py"
+            git push
+          fi

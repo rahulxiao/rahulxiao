@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Quest log. 2 of 8 quests cleared.">
+<style>
+.pulse{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}
+.shine{animation:shine 3s linear infinite}@keyframes shine{from{transform:translateX(-200px)}to{transform:translateX(1300px)}}
+.tw{animation:tw 3s ease-in-out infinite alternate}@keyframes tw{from{opacity:.05}}
+</style>
+<defs>
+  <linearGradient id="qbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1440"/><stop offset="1" stop-color="#3a1d55"/></linearGradient>
+  <linearGradient id="qbar"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+  <linearGradient id="qshine"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="qc"><rect width="1200" height="420" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#qc)">
+<rect width="1200" height="420" fill="url(#qbg)"/>
+<circle cx="661" cy="30" r="1.3" fill="#fff" opacity="0.84"/>
+<circle cx="309" cy="70" r="1" fill="#fff" opacity="0.83" class="tw" style="animation-delay:1.8s;animation-duration:4.4s"/>
+<circle cx="977" cy="31" r="1.3" fill="#fff" opacity="0.85" class="tw" style="animation-delay:2.3s;animation-duration:4.4s"/>
+<circle cx="593" cy="74" r="1.3" fill="#fff" opacity="0.48"/>
+<circle cx="718" cy="38" r="0.6" fill="#fff" opacity="0.33"/>
+<circle cx="429" cy="88" r="0.6" fill="#fff" opacity="0.30" class="tw" style="animation-delay:3.0s;animation-duration:2.8s"/>
+<circle cx="527" cy="81" r="0.6" fill="#fff" opacity="0.30" class="tw" style="animation-delay:1.0s;animation-duration:3.8s"/>
+<circle cx="976" cy="40" r="1.3" fill="#fff" opacity="0.73" class="tw" style="animation-delay:1.2s;animation-duration:4.1s"/>
+<circle cx="917" cy="26" r="1" fill="#fff" opacity="0.75" class="tw" style="animation-delay:3.0s;animation-duration:4.9s"/>
+<circle cx="456" cy="109" r="1" fill="#fff" opacity="0.49" class="tw" style="animation-delay:3.2s;animation-duration:3.2s"/>
+<circle cx="154" cy="97" r="1.3" fill="#fff" opacity="0.31"/>
+<circle cx="1094" cy="0" r="0.6" fill="#fff" opacity="0.46"/>
+<circle cx="408" cy="33" r="1.3" fill="#fff" opacity="0.50"/>
+<circle cx="461" cy="40" r="0.6" fill="#fff" opacity="0.39"/>
+<circle cx="406" cy="47" r="1" fill="#fff" opacity="0.37" class="tw" style="animation-delay:2.3s;animation-duration:3.5s"/>
+<circle cx="27" cy="52" r="1.3" fill="#fff" opacity="0.57"/>
+<circle cx="289" cy="113" r="0.8" fill="#fff" opacity="0.68"/>
+<circle cx="286" cy="32" r="1.3" fill="#fff" opacity="0.86"/>
+<circle cx="829" cy="16" r="1" fill="#fff" opacity="0.70"/>
+<circle cx="1141" cy="42" r="1" fill="#fff" opacity="0.57"/>
+<circle cx="290" cy="64" r="1" fill="#fff" opacity="0.82"/>
+<circle cx="934" cy="75" r="0.8" fill="#fff" opacity="0.60" class="tw" style="animation-delay:3.3s;animation-duration:3.4s"/>
+<circle cx="1045" cy="52" r="0.8" fill="#fff" opacity="0.63"/>
+<circle cx="983" cy="1" r="1" fill="#fff" opacity="0.44"/>
+<rect class="shine" x="0" y="0" width="160" height="420" fill="url(#qshine)"/>
+</g>
+<rect x="1" y="1" width="1198" height="418" rx="18" fill="none" stroke="#f472b6" stroke-opacity=".35" stroke-width="2"/>
+<text x="56" y="62" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="5" fill="#fff">QUEST LOG</text>
+<text x="1144" y="62" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="18" fill="#cbbff0" text-anchor="end">2 / 8 cleared</text>
+<rect x="944" y="74" width="200" height="4" rx="2" fill="#2b1f56"/>
+<rect x="944" y="74" width="50" height="4" rx="2" fill="#f472b6"/>
+<line x1="56" y1="92" x2="1144" y2="92" stroke="#3b2a6b"/>
+<text x="56" y="128" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="4" fill="#f9a8d4">MAIN QUESTS</text>
+<text x="634" y="128" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="4" fill="#67e8f9">SIDE QUESTS</text>
+<line x1="604" y1="112" x2="604" y2="384" stroke="#3b2a6b" stroke-dasharray="3 6"/>
+<g transform="translate(56,180)"><g><rect x="0" y="-16" width="22" height="22" rx="5" fill="#f472b6"/><path d="M5,-5 l5,5 l8,-10" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#cbbff0" text-decoration="line-through" opacity=".85">Ship a full-stack app from scratch</text><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#f9a8d4" text-anchor="end">CLEAR</text></g></g><g transform="translate(56,240)"><g><rect x="0" y="-16" width="22" height="22" rx="5" fill="#f472b6"/><path d="M5,-5 l5,5 l8,-10" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#cbbff0" text-decoration="line-through" opacity=".85">Build my first mobile app</text><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#f9a8d4" text-anchor="end">CLEAR</text></g></g><g transform="translate(56,300)"><g><rect x="1" y="-15" width="20" height="20" rx="5" fill="none" stroke="#67e8f9" stroke-width="2"/><circle cx="11" cy="-5" r="4" fill="#67e8f9" class="pulse"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#fff">Run a system real users rely on</text><rect x="38" y="14" width="300" height="6" rx="3" fill="#2b1f56"/><rect x="38" y="14" width="180" height="6" rx="3" fill="url(#qbar)"/><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#67e8f9" text-anchor="end">60%</text></g></g><g transform="translate(56,360)"><g><rect x="1" y="-15" width="20" height="20" rx="5" fill="none" stroke="#4c3d85" stroke-width="2"/><rect x="6" y="-7" width="10" height="8" rx="1.5" fill="#6b5aa8"/><path d="M8,-7 v-3 a3,3 0 0 1 6,0 v3" fill="none" stroke="#6b5aa8" stroke-width="1.6"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#9d93c4" font-style="italic">Build something a million people use</text><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#6b5aa8" text-anchor="end">LOCKED</text></g></g>
+<g transform="translate(634,180)"><g><rect x="1" y="-15" width="20" height="20" rx="5" fill="none" stroke="#67e8f9" stroke-width="2"/><circle cx="11" cy="-5" r="4" fill="#67e8f9" class="pulse"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#fff">Go somewhere new every year</text><rect x="38" y="14" width="300" height="6" rx="3" fill="#2b1f56"/><rect x="38" y="14" width="150" height="6" rx="3" fill="url(#qbar)"/><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#67e8f9" text-anchor="end">50%</text></g></g><g transform="translate(634,240)"><g><rect x="1" y="-15" width="20" height="20" rx="5" fill="none" stroke="#67e8f9" stroke-width="2"/><circle cx="11" cy="-5" r="4" fill="#67e8f9" class="pulse"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#fff">Learn one new tool every month</text><rect x="38" y="14" width="300" height="6" rx="3" fill="#2b1f56"/><rect x="38" y="14" width="210" height="6" rx="3" fill="url(#qbar)"/><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#67e8f9" text-anchor="end">70%</text></g></g><g transform="translate(634,300)"><g><rect x="1" y="-15" width="20" height="20" rx="5" fill="none" stroke="#67e8f9" stroke-width="2"/><circle cx="11" cy="-5" r="4" fill="#67e8f9" class="pulse"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#fff">Fix one bug without making three more</text><rect x="38" y="14" width="300" height="6" rx="3" fill="#2b1f56"/><rect x="38" y="14" width="90" height="6" rx="3" fill="url(#qbar)"/><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#67e8f9" text-anchor="end">30%</text></g></g><g transform="translate(634,360)"><g><rect x="1" y="-15" width="20" height="20" rx="5" fill="none" stroke="#4c3d85" stroke-width="2"/><rect x="6" y="-7" width="10" height="8" rx="1.5" fill="#6b5aa8"/><path d="M8,-7 v-3 a3,3 0 0 1 6,0 v3" fill="none" stroke="#6b5aa8" stroke-width="1.6"/><text x="38" y="1" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#9d93c4" font-style="italic">Ride a night train through a new country</text><text x="512" y="1" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#6b5aa8" text-anchor="end">LOCKED</text></g></g>
+</svg>

@@ -1,0 +1,63 @@
+name: Daily profile graphics
+
+# Builds everything in the 06:15 "Training log" section and publishes it
+# to the `output` branch: stats card, 3D skyline, Pac-Man and the snake.
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f472b6&color_dots=#1a1538,#3b2a6b,#6b3fa0,#c0527f,#f9a8d4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pac-Man contribution game
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: 3D contribution skyline
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: assets/skyline-3d.json
+
+      - name: Stats card
+        run: python3 assets/stats.py ${{ github.repository_owner }} dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Collect everything into dist
+        run: |
+          cp profile-3d-contrib/skyline.svg dist/skyline.svg
+          ls -la dist
+
+      - name: Publish to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update profile graphics [skip ci]"
